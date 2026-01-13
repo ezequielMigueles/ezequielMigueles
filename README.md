@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Software Engineer and DevOps Engineer with **3+ years of specialized CI/CD experience** in multi-language enterprise environments.
+Senior Software Engineer and DevOps Engineer with **3+ years of specialized CI/CD experience** in multi-language enterprise environments and 5+ years of experience in software development.
 
 Currently working at **DXC Technology** as a Senior Software Engineer, focusing on Build & Release Engineering. I'm passionate about creating robust, scalable CI/CD pipelines, implementing security best practices, and mentoring teams on DevOps principles.
 
