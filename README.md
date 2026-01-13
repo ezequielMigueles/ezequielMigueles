@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ezequiel.jpeg" alt="Ezequiel Migueles" width="200" height="200" style="border-radius: 50%;">
+  <img src="assets/ezequiel.jpeg" alt="Ezequiel Migueles" width="200" height="200" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;">
   
   # Ezequiel Migueles
   
