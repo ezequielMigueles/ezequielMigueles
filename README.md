@@ -1,21 +1,15 @@
-<table>
-<tr>
-<td width="200" valign="top">
-<img src="assets/ezequiel.png" alt="Ezequiel Migueles" width="200" height="200">
-</td>
-<td valign="top">
-
-# Ezequiel Migueles
-
-### Senior Software Engineer | DevOps & Build Engineering Specialist
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielmigueles/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ichibytes.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielmigueles@icloud.com)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="assets/ezequiel.png" alt="Ezequiel Migueles" width="200" height="200">
+  
+  # Ezequiel Migueles
+  
+  ### Senior Software Engineer | DevOps & Build Engineering Specialist
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielmigueles/)
+  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ichibytes.dev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielmigueles@icloud.com)
+  
+</div>
 
 ---
 
