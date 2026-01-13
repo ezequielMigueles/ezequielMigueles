@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px; display: inline-block;">
-    <img src="assets/ezequiel.jpeg" alt="Ezequiel Migueles" width="200" height="200" style="display: block;">
-  </div>
+  <img src="assets/ezequiel.png" alt="Ezequiel Migueles" width="200" height="200">
   
   # Ezequiel Migueles
   
